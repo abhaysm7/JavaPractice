@@ -10,7 +10,7 @@ return [0, 1].
 // Runtime :- 
 / Space :- 
 */
-package LeetCode_Amzn;
+package LeetCode_Amzn.Arrays_Strings;
 import java.util.*;
 
 public class TwoSum{
